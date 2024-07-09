@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952398vujj1ckbzxtl95niyf3hblf1zp39aezfyimo3&ep=v1_gifs_search&rid=200w.gif&ct=g"  />
 
 ###
 
@@ -44,6 +44,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Andrade019/Andrade019/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
