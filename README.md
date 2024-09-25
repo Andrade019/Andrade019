@@ -1,4 +1,4 @@
-<h2 align="left">Olá 👋! Meu nome é Kauã e sou Programador.</h2>
+<h2 align="left">Olá 👋! Meu nome é Kauã andrade e eu sou Dev FRONT-END.</h2>
 
 ###
 
